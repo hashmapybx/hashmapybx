@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![alt text](imageonline-co-gifimage.gif)
 
 [![hashmapybx's GitHub | Topics Over Time](https://stats.quira.sh/hashmapybx/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=hashmapybx)
 
